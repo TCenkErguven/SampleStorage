@@ -2,6 +2,7 @@
 pragma solidity ^0.8.19; //stating solidity version
 
 contract SimpleStorage {
+    // comment test
     // Basic Types: boolean, uint, int, address, bytes
     //uint & int special because you can tell how many bytes you can use
     /*
